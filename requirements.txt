@@ -1,0 +1,2 @@
+-e git://github.com/tothi/pyDes.git#egg=pyDes
+pwntools>=4.0.1
