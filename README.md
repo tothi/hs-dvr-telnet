@@ -22,3 +22,12 @@ python -m venv venv
 pip install -r requirements.txt
 ./hs-dvr-telnet.py
 ```
+
+### vendor(?) reply
+
+Huawei/HiSilicon released a "this is not ours"
+[Security Notice](https://www.huawei.com/en/psirt/security-notices/2020/huawei-sn-20200205-01-hisilicon-en) about the backdoor.
+
+At the moment, it seems the affected part of the firmware is
+related to an OEM vendor (what is most likely
+[Hangzhou Xiongmai Technology](http://www.xiongmaitech.com/en/index.php/product).
