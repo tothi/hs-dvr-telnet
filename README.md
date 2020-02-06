@@ -30,4 +30,5 @@ Huawei/HiSilicon released a "this is not ours"
 
 At the moment, it seems the affected part of the firmware is
 related to an OEM vendor (what is most likely
-[Hangzhou Xiongmai Technology](http://www.xiongmaitech.com/en/index.php/product).
+[Hangzhou Xiongmai Technology](http://www.xiongmaitech.com/en/index.php/product)).
+
